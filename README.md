@@ -1,215 +1,119 @@
 # m3u
-#EXTINF:-1 tvg-id="a043" group-title="BNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg",CARACOL
-http://190.0.243.149:8025/CARACOL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a043" group-title="BNACIONAL" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1132.png",CARACOL HD
-http://190.0.243.149:8025/CARACOL%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a044" group-title="BNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/610px-Caracol_HD2_2017.png",CARACOL HD2
-http://190.0.243.149:8025/CARACOL%20HD2?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a048" group-title="BNACIONAL" tvg-logo="https://media.tvalacarta.info/canales/256x256/rcn.png",RCN
-http://190.0.243.149:8025/RCN?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a048" group-title="BNACIONAL" tvg-logo="https://canalesdefutbol.000webhostapp.com/rcn.png",RCN HD
-http://190.0.243.149:8025/RCN%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a049" group-title="BNACIONAL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/RCNHD2LOGO2019.png/revision/latest/scale-to-width-down/340?cb=20190119185624",RCN HD 2
-http://190.0.243.149:8025/RCN%20HD%202?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CANAL UNO" group-title="BNACIONAL" tvg-logo="https://boom82.com/wp-content/uploads/2019/05/imLavL3o.png",CANAL UNO
-http://190.0.243.149:8025/CANAL%20UNO?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00j" group-title="BNACIONAL" tvg-logo="https://www.nicepng.com/png/detail/364-3646927_canal-uno-colombia-hd-2017-channel-1.png",CANAL UNO HD
-http://190.0.243.149:8025/CANAL%20UNO%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a02s" group-title="BNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Citytv1.png",CITYTV
-http://190.0.243.149:8025/CITYTV?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00m" group-title="BNACIONAL" tvg-logo="https://1.bp.blogspot.com/-NIxmRD9e81g/W6VoEqJAGZI/AAAAAAAACo8/xaXodnBI1r85x9EDITy2Yq7sotVxRzYbQCLcBGAs/s200/canalcongreso2.png",CANAL CONGRESO
-http://190.0.243.149:8025/CANAL%20CONGRESO?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00n" group-title="BNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAghyVZi4kxYBzX0LZKAVIrNAXXH_cQ5v73g",CANAL CAPITAL
-http://190.0.243.149:8025/CANAL%20CAPITAL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00k" group-title="BNACIONAL" tvg-logo="https://media.tvalacarta.info/canales/256x256/canalinstitucional.png",CANAL INSTITUCIONAL
-http://190.0.243.149:8025/CANAL%20INSTITUCIONAL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00k" group-title="BNACIONAL" tvg-logo="https://media.tvalacarta.info/canales/256x256/canalinstitucional.png",CANAL INSTITUCIONAL HD
-http://190.0.243.149:8025/CANAL%20INSTITUCIONAL%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a03x" group-title="BNACIONAL" tvg-logo="https://seeklogo.com/images/S/senal-colombia-logo-B158E46E46-seeklogo.com.gif",SEÑAL COLOMBIA
-http://190.0.243.149:8025/SE%D1AL%20COLOMBIA?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a03x" group-title="BNACIONAL" tvg-logo="https://seeklogo.com/images/S/senal-colombia-logo-B158E46E46-seeklogo.com.gif",SEÑAL COLOMBIA HD
-http://190.0.243.149:8025/SE%D1AL%20COLOMBIA%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00p" group-title="BNACIONAL" tvg-logo="https://www.wradio.com.co/images/3947477_n_vir1.jpg",TELEANTIOQUIA
-http://190.0.243.149:8025/TELEANTIOQUIA?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="TELEPACIFICO" group-title="BNACIONAL" tvg-logo="https://www.gravatar.com/avatar/cb82d86b658907044280fc06b2533130?s=96",TELEPACIFICO
-http://190.0.243.149:8025/TELEPACIFICO?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a06t" group-title="BNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png",CANAL 13
-http://190.0.243.149:8025/CANAL%2013?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a06t" group-title="BNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png",CANAL 13 HD
-http://190.0.243.149:8025/CANAL%2013%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00s" group-title="BNACIONAL" tvg-logo="https://lh3.googleusercontent.com/proxy/Vn-dx2RWXYf6M9bX0tpo7sS5idT1wNXMSISUXNut5IJF3RNP0TMW_RhKFNn5JVdD15ZpBK2Vb5GqC3xP6egQ-ob-FNYBIvMlzFfrluNXUAky7JRnUCsEoYXgvpP4JbzNhs3FzRM8TiQ-_4Z9lBGatE0OQDk2fVppN3WvzYlHpM2o1wozJSZmiA",TELECAFE
-http://190.0.243.149:8025/TELECAFE?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00q" group-title="BNACIONAL" tvg-logo="https://cablemio.com/wp-content/uploads/2020/08/telecaribe2018.png",TELECARIBE
-http://190.0.243.149:8025/TELECARIBE?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00t" group-title="BNACIONAL" tvg-logo="https://1.bp.blogspot.com/-TymgIrO1Jw4/WdjXZfCMwiI/AAAAAAAAAYg/eattvxQFBH8DdgwSYAOOZzyCvz0ydMIdwCLcBGAs//Canal-TRO.png",TRO
-http://190.0.243.149:8025/TRO?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a04s" group-title="BNACIONAL",ZOOM
-http://190.0.243.149:8025/ZOOM?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a003" group-title="BNACIONAL" tvg-logo="https://odnmedia.s3.amazonaws.com/image/cristo_20140919024225881521.jpg",CRISTOVISION
-http://190.0.243.149:8025/CRISTOVISION?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a007" group-title="BNACIONAL" tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/logo_parque_2020.png",TELEMEDELLIN HD
-http://190.0.243.149:8025/TELEMEDELLIN%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00f" group-title="BNACIONAL" tvg-logo="https://cdn.colombia.com/canales/suram-tv-3303.jpg",SURAMTV HD
-http://190.0.243.149:8025/SURAMTV%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a005" group-title="BNACIONAL" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6028/240/default.jpg",TELESUR HD
-http://190.0.243.149:8025/TELESUR%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a00h" group-title="FTA" tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg",MORBIDOTV
-http://190.0.243.149:8025/MORBIDOTV?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="EWTN" group-title="BNACIONAL" tvg-logo="https://cdn6.aptoide.com/imgs/3/8/b/38bbd6d5d87d8d92a2ec178e119c7ac8_icon.png",EWTN
-http://190.0.243.149:8025/EWTN?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a01j" group-title="BNACIONAL" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Hispan-TV-1.png",HISPAN TV
-http://190.0.243.149:8025/HISPAN%20TV?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a01q" group-title="BNACIONAL" tvg-logo="https://media.cdnandroid.com/c4/e3/32/03/imagen-ejtv-0thumb.jpeg",EJTV
-http://190.0.243.149:8025/EJTV?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a01p" group-title="BNACIONAL" tvg-logo="https://cdn.mitvstatic.com/channels/b44351a4-f08c-4d49-b657-52ae6fbcfc98_m.jpg",ENLACE
-http://190.0.243.149:8025/ENLACE?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a01w" group-title="BNACIONAL" tvg-logo="https://api-cdn.arte.tv/api/mami/v1/program/es/RC-016388/400x225",FRANCE 24 HD
-http://190.0.243.149:8025/FRANCE%2024%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a01v" group-title="BNACIONAL" tvg-logo="https://totaltv.tv/wp-content/uploads/2020/04/620f73e5c3a963e0f9ed458e1509b9ac-3.png",RTHD
-http://190.0.243.149:8025/RTHD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CNN" group-title="BNACIONAL",CNN
-http://190.0.243.149:8025/CNN?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a02n " group-title="BNACIONAL" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",DW 
-http://190.0.243.149:8025/DW%20?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a02t" group-title="BNACIONAL" tvg-logo="https://seeklogo.com/images/E/el-tiempo-television-logo-F00557386D-seeklogo.com.png",EL TIEMPO
-http://190.0.243.149:8025/EL%20TIEMPO?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="EURONEWS HD" group-title="BNACIONAL" tvg-logo="https://ocdn.eu/program-tv/adm/e73a7f19aa8b53ef07698e1a1ffba89646389b99c982ad9eb1b3d3f8df95f916",EURONEWS HD
-http://190.0.243.149:8025/EURONEWS%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="LOVE NATURE HD" group-title="BNACIONAL" tvg-logo="https://static.wixstatic.com/media/0cd32b_90b8bde5eaa349789c024f66e678bdeb~mv2.png",LOVE NATURE HD
-http://190.0.243.149:8025/LOVE%20NATURE%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="ZOOMOO HD" group-title="BNACIONAL" tvg-logo="https://cdn.mitvstatic.com/channels/ar_zoomoo_m.png",ZOOMOO HD
-http://190.0.243.149:8025/ZOOMOO%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CGTN HD" group-title="BNACIONAL" tvg-logo="https://mma.prnewswire.com/media/1097018/CGTN_Logo.jpg",CGTN HD
-http://190.0.243.149:8025/CGTN%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="LA KALLE HD" group-title="BNACIONAL" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600006417168/SkwSwcz2dGuDTkqOFEbEvJ3lWIMYcrZzhktpJAwFt1AQkHgFoKLrEyz-Hp1zX7iabgKj=w300?v=1",LA KALLE HD
-http://190.0.243.149:8025/LA%20KALLE%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" group-title="BNACIONAL",DISNEY CHANNEL
-http://190.0.243.149:8025/DISNEY%20CHANNEL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="NICK JUNIOR" group-title="BNACIONAL",NICK JUNIOR
-http://190.0.243.149:8025/NICK%20JUNIOR?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="NICKELODEON" group-title="BNACIONAL",NICKELODEON
-http://190.0.243.149:8025/NICKELODEON?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="DISNEY XD" group-title="BNACIONAL" tvg-logo="https://1.bp.blogspot.com/-z0DJPE-hdkQ/T5hmaQ7GaaI/AAAAAAAAAfw/2SPsGL5AjgM/s1600/disney+xd.jpg",DISNEY XD
-http://190.0.243.149:8025/DISNEY%20XD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="DISNEY JR" group-title="BNACIONAL",DISNEY JR
-http://190.0.243.149:8025/DISNEY%20JR?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="can3" group-title="BNACIONAL" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nat-geo-kids_m.png",NATGEO KIDS
-http://190.0.243.149:8025/NATGEO%20KIDS?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="BOOMERANG" group-title="BNACIONAL",BOOMERANG
-http://190.0.243.149:8025/BOOMERANG?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="BABY TV" group-title="BNACIONAL" tvg-logo="https://i.ytimg.com/vi/XQkTYGH3RVM/hqdefault.jpg",BABY TV
-http://190.0.243.149:8025/BABY%20TV?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" group-title="BNACIONAL" tvg-logo="https://www.discoverykidsplus.com/celebrame/assets/img/logo.png",DISCOVERY KIDS
-http://190.0.243.149:8025/DISCOVERY%20KIDS?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CANAL INFANTIL HD" group-title="BNACIONAL",CANAL INFANTIL HD
-http://190.0.243.149:8025/CANAL%20INFANTIL%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" group-title="BNACIONAL" tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2013/09/Discovery-Science.jpg",DISCOVERY SCIENCE
-http://190.0.243.149:8025/DISCOVERY%20SCIENCE?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="HOME & HEALTH" group-title="BNACIONAL" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/HH-Logo-white.png",HOME & HEALTH
-http://190.0.243.149:8025/HOME%20%26%20HEALTH?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" group-title="BNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/2971074040/225dc1bbb68fae811271af4c9ba04c48.jpeg",DISCOVERY CHANNEL
-http://190.0.243.149:8025/DISCOVERY%20CHANNEL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" group-title="BNACIONAL" tvg-logo="https://assets.tvplayer.com/common/logos-square/256/Inverted/335.png",DISCOVERY TURBO
-http://190.0.243.149:8025/DISCOVERY%20TURBO?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="prueba" group-title="BNACIONAL" tvg-logo="https://www.admongrel.com/img/clients/fox-life.jpg",FOX LIFE
-http://190.0.243.149:8025/FOX%20LIFE?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="SUN CHANNEL HD" group-title="BNACIONAL",SUN CHANNEL HD
-http://190.0.243.149:8025/SUN%20CHANNEL%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="ID" group-title="BNACIONAL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_423.png?mlgvnOAdNFDNh2Tpmx_TyDDuwJ8gZ12q",ID
-http://190.0.243.149:8025/ID?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="TLC" group-title="BNACIONAL" tvg-logo="https://www.bytheway.tv/wp-content/uploads/2010/09/tlc.jpg",TLC
-http://190.0.243.149:8025/TLC?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="can2" group-title="BNACIONAL" tvg-logo="https://www.nationalgeographicla.com/images/logo.png",NATGEO 
-http://190.0.243.149:8025/NATGEO%20?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="ANIMAL PLANET" group-title="BNACIONAL" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/28/1d/24/281d24f5-f27d-ac9b-bca7-353024ad49f9/source/256x256bb.jpg",ANIMAL PLANET
-http://190.0.243.149:8025/ANIMAL%20PLANET?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="BNACIONAL",NAT GEO WILD
-http://190.0.243.149:8025/NAT%20GEO%20WILD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="csn" group-title="BNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkt9k5MvjSjdnH6dcqZGhq3ONWs-UJwl1dOA",FX
-http://190.0.243.149:8025/FX?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="FOX CHANNEL" group-title="BNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-6dP6wBgtA70mhTYU7HwfemlXH-0TFU_3A",FOX CHANNEL
-http://190.0.243.149:8025/FOX%20CHANNEL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="FOX SPORTS" group-title="BNACIONAL" tvg-logo="https://i.pinimg.com/originals/52/2b/7d/522b7d78f0fcef4dad3fd7ed38ae827c.png",FOX SPORTS
-http://190.0.243.149:8025/FOX%20SPORTS?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="FOX SPORTS 2" group-title="BNACIONAL" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-sports-2.jpg",FOX SPORTS 2
-http://190.0.243.149:8025/FOX%20SPORTS%202?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="FOX SPORTS 3" group-title="BNACIONAL" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png",FOX SPORTS 3
-http://190.0.243.149:8025/FOX%20SPORTS%203?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="ESPN" group-title="BNACIONAL" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png",ESPN
-http://190.0.243.149:8025/ESPN?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="ESPN 2" group-title="BNACIONAL" tvg-logo="https://www.plateau.tv/stream/Images/network_logos_tv/Preferred/espn-2.png",ESPN 2
-http://190.0.243.149:8025/ESPN%202?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="ESPN 3" group-title="BNACIONAL" tvg-logo="https://lh3.googleusercontent.com/proxy/PhGA02A5PlVIaN51KEYMRH0_LPD77w5na9WZdPvBFH3o8WK79wy0NduBNQKYAKKZnMDklURWq2_8NvMEj_gd9vvggB2RWhR42Noo2SxxEF2M0M2lkQBVi1VD_jS04tII5kBeoWhDFb8nPA",ESPN 3
-http://190.0.243.149:8025/ESPN%203?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="SPACE HD" group-title="BNACIONAL" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790041_Space.png",SPACE HD
-http://190.0.243.149:8025/SPACE%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="can" group-title="BNACIONAL" tvg-logo="https://i.pinimg.com/originals/fa/21/1f/fa211f021ac394bf91fdc5087ad6ed70.png",FX MOVIES
-http://190.0.243.149:8025/FX%20MOVIES?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="a0gm" group-title="BNACIONAL" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png",CINECANAL
-http://190.0.243.149:8025/CINECANAL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="MULTIPREMIER" group-title="BNACIONAL",MULTIPREMIER
-http://190.0.243.149:8025/MULTIPREMIER?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="HBO" group-title="BNACIONAL",HBO
-http://190.0.243.149:8025/HBO?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="PASIONES HD" group-title="BNACIONAL",PASIONES HD
-http://190.0.243.149:8025/PASIONES%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" group-title="BNACIONAL",COMEDY CENTRAL
-http://190.0.243.149:8025/COMEDY%20CENTRAL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="PARAMOUNT" group-title="BNACIONAL",PARAMOUNT
-http://190.0.243.149:8025/PARAMOUNT?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="MTV" group-title="BNACIONAL",MTV
-http://190.0.243.149:8025/MTV?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CINE PREMIUM HD" group-title="BNACIONAL",CINE PREMIUM HD
-http://190.0.243.149:8025/CINE%20PREMIUM%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CINE FAMILIAR HD" group-title="BNACIONAL",CINE FAMILIAR HD
-http://190.0.243.149:8025/CINE%20FAMILIAR%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CINE HISPANO HD" group-title="BNACIONAL",CINE HISPANO HD
-http://190.0.243.149:8025/CINE%20HISPANO%20HD?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CANAL REGETON" group-title="BNACIONAL",MUSICA REGETON
-http://190.0.243.149:8025/MUSICA%20REGETON?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="MUSICA POPULAR" group-title="BNACIONAL",MUSICA POPULAR
-http://190.0.243.149:8025/MUSICA%20POPULAR?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="MUSICA SALSA" group-title="BNACIONAL",MUSICA SALSA
-http://190.0.243.149:8025/MUSICA%20SALSA?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="MUSICA ROMANTICA" group-title="BNACIONAL",MUSICA ROMANTICA
-http://190.0.243.149:8025/MUSICA%20ROMANTICA?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="EXPLLREMOS" group-title="BNACIONAL",EXPLOREMOS
-http://190.0.243.149:8025/EXPLOREMOS?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CABLENOTICIAS" group-title="CIEN",CABLENOTICIAS
-http://190.0.243.149:8025/CABLENOTICIAS?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="GOURMET" group-title="CIEN",GOURMET
-http://190.0.243.149:8025/GOURMET?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CDF PREMIUM" group-title="CIEN",CDF PREMIUM
-http://190.0.243.149:8025/CDF%20PREMIUM?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="HGTV" group-title="CIEN",HGTV
-http://190.0.243.149:8025/HGTV?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="HTV" group-title="CIEN",HTV
-http://190.0.243.149:8025/HTV?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="UNIVERSAL" group-title="CIEN",UNIVERSAL
-http://190.0.243.149:8025/UNIVERSAL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CARTOON NETWORK" group-title="CIEN",CARTOON NETWORK
-http://190.0.243.149:8025/CARTOON%20NETWORK?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="TCM" group-title="CIEN",TCM
-http://190.0.243.149:8025/TCM?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="FILM & ARTS" group-title="CIEN",FILM & ARTS
-http://190.0.243.149:8025/FILM%20%26%20ARTS?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="SONY" group-title="CIEN",SONY
-http://190.0.243.149:8025/SONY?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="A&E" group-title="CIEN",A&E
-http://190.0.243.149:8025/A%26E?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="WARNER" group-title="CIEN",WARNER
-http://190.0.243.149:8025/WARNER?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="AXN" group-title="CIEN",AXN
-http://190.0.243.149:8025/AXN?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="CINEMAX" group-title="CIEN",CINEMAX
-http://190.0.243.149:8025/CINEMAX?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="WINSPORTS" group-title="CIEN",WINSPORTS
-http://190.0.243.149:8025/WINSPORTS?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="HISTORY CHANNEL" group-title="CIEN",HISTORY CHANNEL
-http://190.0.243.149:8025/HISTORY%20CHANNEL?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="SEXTREME" group-title="XADULTOS",SEXTREME
-http://190.0.243.149:8025/SEXTREME?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="VENUS" group-title="XADULTOS",VENUS
-http://190.0.243.149:8025/VENUS?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
-#EXTINF:-1 tvg-id="PLAYBOY" group-title="XADULTOS",PLAYBOY
-http://190.0.243.149:8025/PLAYBOY?u=coreschoco:p=onredtv2020:server_ip_port=190.0.243.149:8025
+#EXTM3U
+#EXTINF:-1 tvg-id="AlcarriaTV.mx" tvg-name="Alcarria TV" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="",Alcarria TV (576p)
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Animation",Anime Zone TV (480p)
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN Latinoamérica" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="Entertainment",AXN Latinoamérica (576p)
+http://209.91.213.10:8088/play/a011
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang Latinoamérica" tvg-country="LATAM" tvg-language="Spanish;English" tvg-logo="" group-title="Kids",Boomerang Latinoamérica
+http://209.91.213.10:8088/play/a00m
+#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-name="Canal 10 Cancún" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Local",Canal 10 Cancún (720p) [Not 24/7]
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-name="Canal 10 Cancún" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Local",Canal 10 Cancún (720p) [Not 24/7]
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-name="Canal Catorce" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="Local",Canal Catorce (720p)
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-name="Canal Mundo+" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="",Canal Mundo+ (560p)
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Local",Capital 21 [Not 24/7]
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network Latinoamérica" tvg-country="LATAM" tvg-language="Vietnamese" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network Latinoamérica
+http://209.91.213.10:8088/play/a00k
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" tvg-country="MX" tvg-language="" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",Conecta TV (720p)
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" tvg-country="MX" tvg-language="" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",Conecta TV (720p)
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/Conectatvmexico/index.m3u8
+#EXTINF:-1 tvg-id="CubaVisionInternacional.cu" tvg-name="CubaVision Internacional" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="",CubaVision Internacional (480p)
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="El Garage TV" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="FOXSports2.us" tvg-name="FOX Sports 2 Latinoamérica" tvg-country="LATAM" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Sports",FOX Sports 2 Latinoamérica (576p)
+http://209.91.213.10:8088/play/a026
+#EXTINF:-1 tvg-id="FOXSports2.us" tvg-name="FOX Sports 2 Latinoamérica" tvg-country="LATAM" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Sports",FOX Sports 2 Latinoamérica (1080p)
+http://209.91.213.10:8088/play/a02r
+#EXTINF:-1 tvg-id="FOXSports3.us" tvg-name="FOX Sports 3 Latinoamérica" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports3.png" group-title="Sports",FOX Sports 3 Latinoamérica
+http://209.91.213.10:8088/play/a00y
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="GenesisTV.mx" tvg-name="Genesis TV" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hMtKE60.png" group-title="",Genesis TV (720p)
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-name="Hipódromo de las Américas" tvg-country="MX" tvg-language="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="",Hipódromo de las Américas (480p)
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="News",HispanTV (480p)
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="News",HispanTV
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-name="Kanade TV" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" group-title="Animation",Kanade TV (720p)
+http://45.32.74.87:81/hls/kanadetv.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MariaVisionMexico.mx" tvg-name="María Visión Mexico" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",María Visión Mexico (1080p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-name="Mexiquense TV" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",Mexiquense TV (720p)
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-name="Moovimex" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Movies",Moovimex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVHitsLatinoamerica.us" tvg-name="MTV Hits Latinoamérica" tvg-country="LATAM" tvg-language="" tvg-logo="https://i.imgur.com/hwaLKuJ.png" group-title="Music",MTV Hits Latinoamérica (576p)
+http://209.91.213.10:8088/play/a00z
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-name="Multimedios Guadalajara" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",Multimedios Guadalajara (720p)
+http://mdstrm.com/live-stream-playlist_400/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-name="Multimedios Guadalajara" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Guadalajara (720p)
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-name="Multimedios Laguna" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",Multimedios Laguna (720p)
+http://mdstrm.com/live-stream-playlist_400/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-name="Multimedios Laguna" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Laguna (720p)
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-name="Multimedios Monterrey" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="",Multimedios Monterrey (720p)
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-name="MVM Noticias" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="News",MVM Noticias (Oaxaca) (400p)
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-name="Nuevo Tiempo" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p)
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OnceMexico.mx" tvg-name="Once Mexico" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="",Once Mexico (720p) [Not 24/7]
+http://live.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OnceMexico.mx" tvg-name="Once Mexico" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="",Once Mexico (720p)
+https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
+#EXTINF:-1 tvg-id="POPTV.mx" tvg-name="POP TV" tvg-country="MX" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU" group-title="",POP TV (542p)
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
+#EXTINF:-1 tvg-id="QuieroTV.mx" tvg-name="Quiero TV" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",Quiero TV (1080p)
+https://quierotvlive.tk/httplive/playlist.m3u8
+#EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="RCG TV-2" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="",RCG TV-2 (360p) [Not 24/7]
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="",RTQ Queretaro (360p)
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="TELESISTEMACANAL9.mx" tvg-name="TELE SISTEMA CANAL 9" tvg-country="MX" tvg-language="" tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" group-title="",TELE SISTEMA CANAL 9 (720p)
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Telefórmula" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" group-title="",Telefórmula (720p)
+https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemax.mx" tvg-name="Telemax" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",Telemax (720p)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-name="Telemax (XEWH-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="",Telemax (XEWH-TDT) (720p)
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="TELERITMO.mx" tvg-name="TELERITMO" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u=
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/teleritmo-logo.png" group-title="",Teleritmo (Monterrey) (480p)
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" tvg-name="Televisa News Mexico" tvg-country="MX" tvg-language="" tvg-logo="" group-title="News",Televisa News Mexico
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-name="Transmedia Televisión Morelia" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",Transmedia Televisión Morelia (500p)
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="TVMÁS (XHGV-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="",TVMÁS (XHGV-TDT) (360p)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+#EXTINF:-1 tvg-id="TVP.mx" tvg-name="TVP" tvg-country="MX" tvg-language="" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="",TVP (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w747018279_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-name="TVP Los Mochis" tvg-country="MX" tvg-language="" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="",TVP Los Mochis (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w52505888_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-id="TVPObregon.mx" tvg-name="TVP Obregón" tvg-country="MX" tvg-language="" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="",TVP Obregón [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w888631267_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL TV" tvg-country="UY;LATAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="",UCL TV (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+#EXTINF:-1 tvg-id="UnoTV.mx" tvg-name="Uno TV" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",Uno TV (720p)
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
